@@ -9,7 +9,7 @@ class Lesson2
 		System.out.println("done");
 	}
 
-	private void doSomething()
+	private static void doSomething()
 	{
 	}
 }
